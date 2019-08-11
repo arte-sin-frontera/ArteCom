@@ -1,2 +1,2 @@
 # ArteCom
-Espacio para la promoción de Iniciativas de Proyectos en busca Financiamiento.
+Espacio para la promoción de Iniciativas de Proyectos en busca de Financiamientos.
